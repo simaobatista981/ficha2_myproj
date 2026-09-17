@@ -2,3 +2,4 @@ exemplo
 
 alteração
 alteração branch newfeature
+Alteração no branch NOVAFEATURE
