@@ -2,9 +2,8 @@ exemplo
 
 alteração
 alteração branch newfeature
-=======
-Alteração no branch MASTER
-=======
+<<<<<<< HEAD
 Alteração no branch NOVAFEATURE
 =======
 Alteração no branch MASTER
+>>>>>>> master

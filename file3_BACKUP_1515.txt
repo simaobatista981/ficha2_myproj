@@ -1,7 +1,10 @@
+<<<<<<< HEAD
+=======
 bom dias dsfqeuesad
 sdfj
 teste 3
 teste 10
 <br>
 =======
+>>>>>>> master
 ABACATE
